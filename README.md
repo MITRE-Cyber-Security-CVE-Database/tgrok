@@ -113,4 +113,4 @@ For issues or questions, open an issue on the [GitHub repository](https://github
 - Inspired by the need for lightweight tools in cybersecurity workflows, aligned with MITRE’s mission to advance vulnerability management.[](https://github.com/MITRE-Cyber-Security-CVE-Database/mitre-cve-database)
 
 ---
-Copyright © 2025 [YOUR_NAME]
+Copyright © 2025 GulfOfAmerica
